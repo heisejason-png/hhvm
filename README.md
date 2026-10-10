@@ -56,3 +56,4 @@ Our [user FAQ](https://docs.hhvm.com/hhvm/FAQ/faq) has answers to many common qu
 
 There is also a FAQ for [contributors](https://github.com/facebook/hhvm/wiki/FAQ#contributors) to HHVM.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
